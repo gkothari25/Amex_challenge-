@@ -1,7 +1,7 @@
 # Amex_challenge-
 AmExpert 2019 – Machine Learning Hackathon
 
-1- challenge Link:
+1- Hackathon Adderess:
 
 https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/?utm_source=sendinblue&utm_campaign=Download_the_Dataset_AmExpert_2019_Machine_Learning_Hackathon&utm_medium=email
 
