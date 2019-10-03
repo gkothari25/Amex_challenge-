@@ -1,3 +1,6 @@
+#best tracker in opencv is CSRT tracker
+
+
 dataframe.isnull.sum() = Gives total count of null values in each columns.
 acces the month and year in datetime object.
 
@@ -8,4 +11,15 @@ df['month'] = df['ArrivalDate'].dt.mon
 
 Best way to deal with categorical data
 df_with_dummies = pd.get_dummies( df, columns = cols_to_transform )
+
+#check the main difference between iolc and loc
+iloc = df.iloc[:3] = prints first 3 row from the Series 
+loc = df.loc[:3] = prints values upto 3 [goes to that row number specified]
+
+#check the non numeric coloumns.
+campaign_df.select_dtypes(exclude = ["number"])
+
+#find the unique value in the dataframe
+[columns.df.nunique()]
+
 
