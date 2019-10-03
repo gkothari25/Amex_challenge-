@@ -1,1 +1,11 @@
-gaurav
+dataframe.isnull.sum() = Gives total count of null values in each columns.
+acces the month and year in datetime object.
+
+df['year'] = df['ArrivalDate'].dt.year
+df['month'] = df['ArrivalDate'].dt.mon
+
+
+
+Best way to deal with categorical data
+df_with_dummies = pd.get_dummies( df, columns = cols_to_transform )
+
