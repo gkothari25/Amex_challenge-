@@ -36,3 +36,6 @@ axis = 0 = row
 axis = 1 = column
 
 
+Join works on index, merge work on columns 
+
+
