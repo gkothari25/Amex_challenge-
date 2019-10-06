@@ -35,7 +35,11 @@ join : {‘inner’, ‘outer’}, default ‘outer’. How to handle indexes on
 axis = 0 = row
 axis = 1 = column
 
+#convert the datatype of a coloumn
+df[col].astype(int)
 
-Join works on index, merge work on columns 
+#get the list of all columns datatype
+df.dtypes
+
 
 
